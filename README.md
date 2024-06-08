@@ -1,2 +1,5 @@
 # Banknote-Authentication
-Dataset Link: [Section `[Features](https://archive.ics.uci.edu/dataset/267/banknote+authentication)`](#feature)
+Dataset Link: in [Section 'Features'](#ssFeatures) 
+
+## Features <a id='https://archive.ics.uci.edu/dataset/267/banknote+authentication'></a>
+
